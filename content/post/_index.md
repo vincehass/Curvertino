@@ -1,7 +1,8 @@
 ---
+cms_exclude: true
 header:
   caption: ""
   image: ""
-title: "Blog"
+title: Posts
 view: 2
 ---
