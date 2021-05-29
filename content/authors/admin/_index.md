@@ -1,4 +1,14 @@
 ---
+# Display name
+name: Nadhir Hassen
+
+# Username (this should match the folder name)
+title: Nadhir Hassen
+authors:
+- Nadhir
+
+# Is this the primary user of the site?
+superuser: true
 bio: I'm a master student in Applied Mathematics, my area of research focuses on probabilistic machine learning, deep learning and Continual Learning.
 
 education:
