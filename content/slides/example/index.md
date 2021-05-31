@@ -5,14 +5,13 @@ date: "2019-02-05T00:00:00Z"
 slides:
   highlight_style: dracula
   theme: black
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Heteroscedastic Evolutionary Bayesian Optimisation.
 tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+
 
 ---
 

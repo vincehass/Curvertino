@@ -14,7 +14,7 @@ bio: I'm a master student in Applied Mathematics, my area of research focuses on
 education:
   courses:
   - course: MSc in Applied Mathematics
-    institution: Polytechnic Montreal-UNiversity of Montreal
+    institution: Polytechnic Montreal-University of Montreal
     year: expected -August 2021
   - course: BSc in Mathematics with concentration in Statistics
     institution: University of Quebec at Montreal
